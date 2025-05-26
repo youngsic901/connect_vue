@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/vue_join3table/build/generated/sources/annotationProcessor/java/main" libraries="{vue, vue-router}" />
+    <file url="file://$PROJECT_DIR$/vue_join3table/src/main" libraries="{vue, vue-router}" />
+  </component>
+</project>

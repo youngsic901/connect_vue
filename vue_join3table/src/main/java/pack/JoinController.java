@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = {"http://127.0.0.1:5500"})   //cors 정책 허용
+//@CrossOrigin(origins = {"http://127.0.0.1:5500"})   //cors 정책 허용
 public class JoinController {
     @Autowired
     private JoinService joinService;
