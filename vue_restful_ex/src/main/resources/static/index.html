@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+	<meta charset="UTF-8">
+	<title>Title</title>
+	<script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
+	<script src="https://unpkg.com/vue-router@4"></script>
+	<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+	<script type="module" src="./component/router.js"></script>
+</head>
+<body>
+<h2>RESTful 문제</h2>
+<div id="app">
+	<nav>
+		<router-link to="/">부서정보</router-link>
+		<router-link to="/add">부서추가</router-link>
+		<router-link to="/update">부서수정</router-link>
+		<router-link to="/jikwon">부서 내 직원</router-link>
+	</nav>
+	<router-view></router-view>
+</div>
+</body>
+</html>

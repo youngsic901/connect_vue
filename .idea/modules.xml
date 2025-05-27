@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/connect_vue.iml" filepath="$PROJECT_DIR$/connect_vue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vue_restful_ex.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vue_restful_ex.main.iml" />
     </modules>
   </component>
 </project>

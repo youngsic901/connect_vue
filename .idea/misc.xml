@@ -4,6 +4,7 @@
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/vue_join3table" />
     <file type="web" url="file://$PROJECT_DIR$/vue_restful" />
+    <file type="web" url="file://$PROJECT_DIR$/vue_restful_ex" />
   </component>
   <component name="ProjectRootManager">
     <output url="file://$PROJECT_DIR$/out" />
